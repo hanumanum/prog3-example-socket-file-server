@@ -1,6 +1,6 @@
 # prog3-example-socket-file-server
 
-## instalation
+## installation
 ```
 git clone https://github.com/hanumanum/prog3-example-socket-file-server
 cd prog3-example-socket-file-server
